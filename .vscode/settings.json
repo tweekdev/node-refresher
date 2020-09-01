@@ -1,0 +1,6 @@
+{
+	"prettier.singleQuote": true,
+	"prettier.jsxSingleQuote": true,
+	"window.zoomLevel": -1,
+	"editor.mouseWheelZoom": true
+}
